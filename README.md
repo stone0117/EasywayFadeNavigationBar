@@ -1,8 +1,7 @@
 # EasywayFadeNavigationBar
 简单创建 淡入淡出的 navigationBar
 
-![image](http://7xugrt.com1.z0.glb.clouddn.com/136.gif)
-![image](http://7xugrt.com1.z0.glb.clouddn.com/136.gif)
+![image](http://7xugrt.com1.z0.glb.clouddn.com/137.gif)
 
 ```objc
 #import "UINavigationController+BarAlpha.h"
